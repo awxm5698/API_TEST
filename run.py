@@ -13,8 +13,8 @@ from email.header import Header
 #################################################################
 emailSmtp = 'smtp.163.com' # 发件邮箱为163邮箱
 emailFrom = 'testWolian@163.com'
-emailFromPassWord = 'WoLianw6688'
-emailTo = ['2538204920@qq.com']
+emailFromPassWord = '*****'
+emailTo = ['*****@qq.com']
 timestr = time.strftime('%Y%m%d-%H%M%S', time.localtime(time.time()))
 #################################################################
 # ---------------------------邮件部分-------------------------- #
