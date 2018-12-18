@@ -25,8 +25,8 @@ class Cosmos_DB:
         return list(docs)
 
 if __name__ == "__main__":
-    url = 'https://dev-tirebattery-app.documents.azure.com:443/'
-    key = 'lXy59oFu6uAbraxLgbMIyh8EF242LIqBvEBuuZWD82Su98xulfi82HuSZt74iFTf6zRx9e2AvwEZdzKPhmgq6g=='
+    url = '****'
+    key = '*****'
     db_name = 'TBC_QA'
     table_name = 'vehicleYear'
     _sql = 'SELECT v.modelYear FROM vehicleYear v'
